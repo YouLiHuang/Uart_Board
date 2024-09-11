@@ -44,11 +44,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("I:/CUBEMX/prj/uart_board_test/build/Debug/UserLib/cmake_install.cmake")
-endif()
-
-if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  # Include the install script for the subdirectory.
   include("I:/CUBEMX/prj/uart_board_test/build/Debug/User/cmake_install.cmake")
 endif()
 

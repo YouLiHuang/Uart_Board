@@ -2763,81 +2763,6 @@ Discarded input sections
  .text          0x00000000       0x14 CMakeFiles/uart_board_test.dir/startup_stm32f103xe.s.obj
  .data          0x00000000        0x0 CMakeFiles/uart_board_test.dir/startup_stm32f103xe.s.obj
  .bss           0x00000000        0x0 CMakeFiles/uart_board_test.dir/startup_stm32f103xe.s.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .text          0x00000000        0x0 CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .data          0x00000000        0x0 CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .bss           0x00000000        0x0 CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000      0xaa8 CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000      0x21b CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000       0x2e CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000       0x22 CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000       0x22 CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000       0x8e CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000       0x51 CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000      0x103 CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000       0x6a CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000      0x1df CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000       0x1c CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000       0x22 CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000       0xbd CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000      0xd23 CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000     0xfd8c CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000       0x6d CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000     0x34a2 CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000      0x189 CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000       0x5c CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000      0x5bc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000      0x4d5 CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000      0x1cb CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000      0x114 CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000      0x1ea CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000       0x27 CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000      0x144 CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000      0x1bc CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000       0x30 CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000       0x3c CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000       0x57 CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000       0x87 CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000      0x24f CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000      0x140 CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000      0x8ed CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000      0x28e CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00000000       0xb5 CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
  .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/User/src/test.c.obj
  .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/User/src/test.c.obj
  .group         0x00000000        0xc CMakeFiles/uart_board_test.dir/User/src/test.c.obj
@@ -2980,7 +2905,6 @@ LOAD CMakeFiles/uart_board_test.dir/Core/Src/system_stm32f1xx.c.obj
 LOAD CMakeFiles/uart_board_test.dir/Core/Src/sysmem.c.obj
 LOAD CMakeFiles/uart_board_test.dir/Core/Src/syscalls.c.obj
 LOAD CMakeFiles/uart_board_test.dir/startup_stm32f103xe.s.obj
-LOAD CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
 LOAD CMakeFiles/uart_board_test.dir/User/src/test.c.obj
 START GROUP
 LOAD I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp\libgcc.a
@@ -3004,7 +2928,7 @@ LOAD I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-
                 0x08000000                g_pfnVectors
                 0x080001e4                        . = ALIGN (0x4)
 
-.text           0x080001e4     0x1ccc
+.text           0x080001e4     0x1ca4
                 0x080001e4                        . = ALIGN (0x4)
  *(.text)
  .text          0x080001e4       0x40 I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
@@ -3014,324 +2938,322 @@ LOAD I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-
  .text.__libc_init_array
                 0x08000234       0x48 I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-init.o)
                 0x08000234                __libc_init_array
- .text.main     0x0800027c       0x34 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .text.main     0x0800027c       0x28 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
                 0x0800027c                main
  .text.SystemClock_Config
-                0x080002b0       0x8a CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
-                0x080002b0                SystemClock_Config
+                0x080002a4       0x8a CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+                0x080002a4                SystemClock_Config
  .text.Error_Handler
-                0x0800033a        0xc CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
-                0x0800033a                Error_Handler
- *fill*         0x08000346        0x2 
+                0x0800032e        0xc CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+                0x0800032e                Error_Handler
+ *fill*         0x0800033a        0x2 
  .text.MX_GPIO_Init
-                0x08000348       0x5c CMakeFiles/uart_board_test.dir/Core/Src/gpio.c.obj
-                0x08000348                MX_GPIO_Init
+                0x0800033c       0x5c CMakeFiles/uart_board_test.dir/Core/Src/gpio.c.obj
+                0x0800033c                MX_GPIO_Init
  .text.MX_TIM1_Init
-                0x080003a4       0xa4 CMakeFiles/uart_board_test.dir/Core/Src/tim.c.obj
-                0x080003a4                MX_TIM1_Init
+                0x08000398       0xa4 CMakeFiles/uart_board_test.dir/Core/Src/tim.c.obj
+                0x08000398                MX_TIM1_Init
  .text.HAL_TIM_Base_MspInit
-                0x08000448       0x4c CMakeFiles/uart_board_test.dir/Core/Src/tim.c.obj
-                0x08000448                HAL_TIM_Base_MspInit
+                0x0800043c       0x4c CMakeFiles/uart_board_test.dir/Core/Src/tim.c.obj
+                0x0800043c                HAL_TIM_Base_MspInit
  .text.MX_UART4_Init
-                0x08000494       0x54 CMakeFiles/uart_board_test.dir/Core/Src/usart.c.obj
-                0x08000494                MX_UART4_Init
+                0x08000488       0x54 CMakeFiles/uart_board_test.dir/Core/Src/usart.c.obj
+                0x08000488                MX_UART4_Init
  .text.HAL_UART_MspInit
-                0x080004e8       0x98 CMakeFiles/uart_board_test.dir/Core/Src/usart.c.obj
-                0x080004e8                HAL_UART_MspInit
+                0x080004dc       0x98 CMakeFiles/uart_board_test.dir/Core/Src/usart.c.obj
+                0x080004dc                HAL_UART_MspInit
  .text.NMI_Handler
-                0x08000580        0x8 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
-                0x08000580                NMI_Handler
+                0x08000574        0x8 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000574                NMI_Handler
  .text.HardFault_Handler
-                0x08000588        0x8 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
-                0x08000588                HardFault_Handler
+                0x0800057c        0x8 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0800057c                HardFault_Handler
  .text.MemManage_Handler
-                0x08000590        0x8 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
-                0x08000590                MemManage_Handler
+                0x08000584        0x8 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000584                MemManage_Handler
  .text.BusFault_Handler
-                0x08000598        0x8 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
-                0x08000598                BusFault_Handler
+                0x0800058c        0x8 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0800058c                BusFault_Handler
  .text.UsageFault_Handler
-                0x080005a0        0x8 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
-                0x080005a0                UsageFault_Handler
+                0x08000594        0x8 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000594                UsageFault_Handler
  .text.SVC_Handler
-                0x080005a8        0xc CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
-                0x080005a8                SVC_Handler
+                0x0800059c        0xc CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0800059c                SVC_Handler
  .text.DebugMon_Handler
-                0x080005b4        0xc CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
-                0x080005b4                DebugMon_Handler
+                0x080005a8        0xc CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080005a8                DebugMon_Handler
  .text.PendSV_Handler
-                0x080005c0        0xc CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
-                0x080005c0                PendSV_Handler
+                0x080005b4        0xc CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080005b4                PendSV_Handler
  .text.SysTick_Handler
-                0x080005cc        0xc CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
-                0x080005cc                SysTick_Handler
+                0x080005c0        0xc CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080005c0                SysTick_Handler
  .text.TIM1_UP_IRQHandler
-                0x080005d8       0x14 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
-                0x080005d8                TIM1_UP_IRQHandler
+                0x080005cc       0x14 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080005cc                TIM1_UP_IRQHandler
  .text.HAL_MspInit
-                0x080005ec       0x64 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_hal_msp.c.obj
-                0x080005ec                HAL_MspInit
+                0x080005e0       0x64 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x080005e0                HAL_MspInit
  .text.HAL_TIM_Base_Init
-                0x08000650       0x9e CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x08000650                HAL_TIM_Base_Init
+                0x08000644       0x9e CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08000644                HAL_TIM_Base_Init
  .text.HAL_TIM_IRQHandler
-                0x080006ee      0x1e0 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x080006ee                HAL_TIM_IRQHandler
+                0x080006e2      0x1e0 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x080006e2                HAL_TIM_IRQHandler
  .text.HAL_TIM_ConfigClockSource
-                0x080008ce      0x18e CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x080008ce                HAL_TIM_ConfigClockSource
+                0x080008c2      0x18e CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x080008c2                HAL_TIM_ConfigClockSource
  .text.HAL_TIM_PeriodElapsedCallback
-                0x08000a5c       0x12 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x08000a5c                HAL_TIM_PeriodElapsedCallback
+                0x08000a50       0x12 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08000a50                HAL_TIM_PeriodElapsedCallback
  .text.HAL_TIM_OC_DelayElapsedCallback
-                0x08000a6e       0x12 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x08000a6e                HAL_TIM_OC_DelayElapsedCallback
+                0x08000a62       0x12 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08000a62                HAL_TIM_OC_DelayElapsedCallback
  .text.HAL_TIM_IC_CaptureCallback
-                0x08000a80       0x12 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x08000a80                HAL_TIM_IC_CaptureCallback
+                0x08000a74       0x12 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08000a74                HAL_TIM_IC_CaptureCallback
  .text.HAL_TIM_PWM_PulseFinishedCallback
-                0x08000a92       0x12 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x08000a92                HAL_TIM_PWM_PulseFinishedCallback
+                0x08000a86       0x12 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08000a86                HAL_TIM_PWM_PulseFinishedCallback
  .text.HAL_TIM_TriggerCallback
-                0x08000aa4       0x12 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x08000aa4                HAL_TIM_TriggerCallback
- *fill*         0x08000ab6        0x2 
+                0x08000a98       0x12 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08000a98                HAL_TIM_TriggerCallback
+ *fill*         0x08000aaa        0x2 
  .text.TIM_Base_SetConfig
-                0x08000ab8      0x10c CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x08000ab8                TIM_Base_SetConfig
+                0x08000aac      0x10c CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08000aac                TIM_Base_SetConfig
  .text.TIM_TI1_ConfigInputStage
-                0x08000bc4       0x5c CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08000bb8       0x5c CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .text.TIM_TI2_ConfigInputStage
-                0x08000c20       0x5e CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08000c14       0x5e CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .text.TIM_ITRx_SetConfig
-                0x08000c7e       0x34 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08000c72       0x34 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .text.TIM_ETR_SetConfig
-                0x08000cb2       0x3e CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x08000cb2                TIM_ETR_SetConfig
+                0x08000ca6       0x3e CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08000ca6                TIM_ETR_SetConfig
  .text.HAL_TIMEx_MasterConfigSynchronization
-                0x08000cf0       0xd8 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
-                0x08000cf0                HAL_TIMEx_MasterConfigSynchronization
+                0x08000ce4       0xd8 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+                0x08000ce4                HAL_TIMEx_MasterConfigSynchronization
  .text.HAL_TIMEx_CommutCallback
-                0x08000dc8       0x12 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
-                0x08000dc8                HAL_TIMEx_CommutCallback
+                0x08000dbc       0x12 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+                0x08000dbc                HAL_TIMEx_CommutCallback
  .text.HAL_TIMEx_BreakCallback
-                0x08000dda       0x12 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
-                0x08000dda                HAL_TIMEx_BreakCallback
+                0x08000dce       0x12 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+                0x08000dce                HAL_TIMEx_BreakCallback
  .text.HAL_Init
-                0x08000dec       0x2c CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x08000dec                HAL_Init
+                0x08000de0       0x2c CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x08000de0                HAL_Init
  .text.HAL_InitTick
-                0x08000e18       0x60 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x08000e18                HAL_InitTick
+                0x08000e0c       0x60 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x08000e0c                HAL_InitTick
  .text.HAL_IncTick
-                0x08000e78       0x24 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x08000e78                HAL_IncTick
+                0x08000e6c       0x24 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x08000e6c                HAL_IncTick
  .text.HAL_GetTick
-                0x08000e9c       0x14 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x08000e9c                HAL_GetTick
+                0x08000e90       0x14 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x08000e90                HAL_GetTick
  .text.HAL_Delay
-                0x08000eb0       0x48 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x08000eb0                HAL_Delay
+                0x08000ea4       0x48 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x08000ea4                HAL_Delay
  .text.HAL_RCC_OscConfig
-                0x08000ef8      0x504 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x08000ef8                HAL_RCC_OscConfig
+                0x08000eec      0x504 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08000eec                HAL_RCC_OscConfig
  .text.HAL_RCC_ClockConfig
-                0x080013fc      0x1d4 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x080013fc                HAL_RCC_ClockConfig
+                0x080013f0      0x1d4 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x080013f0                HAL_RCC_ClockConfig
  .text.HAL_RCC_GetSysClockFreq
-                0x080015d0       0xa8 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x080015d0                HAL_RCC_GetSysClockFreq
+                0x080015c4       0xa8 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x080015c4                HAL_RCC_GetSysClockFreq
  .text.HAL_RCC_GetHCLKFreq
-                0x08001678       0x14 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x08001678                HAL_RCC_GetHCLKFreq
+                0x0800166c       0x14 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x0800166c                HAL_RCC_GetHCLKFreq
  .text.HAL_RCC_GetPCLK1Freq
-                0x0800168c       0x28 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x0800168c                HAL_RCC_GetPCLK1Freq
+                0x08001680       0x28 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08001680                HAL_RCC_GetPCLK1Freq
  .text.HAL_RCC_GetPCLK2Freq
-                0x080016b4       0x28 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x080016b4                HAL_RCC_GetPCLK2Freq
+                0x080016a8       0x28 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x080016a8                HAL_RCC_GetPCLK2Freq
  .text.RCC_Delay
-                0x080016dc       0x3c CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x080016d0       0x3c CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
  .text.HAL_GPIO_Init
-                0x08001718      0x328 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
-                0x08001718                HAL_GPIO_Init
+                0x0800170c      0x328 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x0800170c                HAL_GPIO_Init
  .text.__NVIC_SetPriorityGrouping
-                0x08001a40       0x48 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08001a34       0x48 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .text.__NVIC_GetPriorityGrouping
-                0x08001a88       0x1c CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08001a7c       0x1c CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .text.__NVIC_EnableIRQ
-                0x08001aa4       0x38 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08001a98       0x38 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .text.__NVIC_SetPriority
-                0x08001adc       0x54 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08001ad0       0x54 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .text.NVIC_EncodePriority
-                0x08001b30       0x64 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08001b24       0x64 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .text.SysTick_Config
-                0x08001b94       0x44 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08001b88       0x44 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .text.HAL_NVIC_SetPriorityGrouping
-                0x08001bd8       0x16 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
-                0x08001bd8                HAL_NVIC_SetPriorityGrouping
+                0x08001bcc       0x16 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08001bcc                HAL_NVIC_SetPriorityGrouping
  .text.HAL_NVIC_SetPriority
-                0x08001bee       0x38 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
-                0x08001bee                HAL_NVIC_SetPriority
+                0x08001be2       0x38 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08001be2                HAL_NVIC_SetPriority
  .text.HAL_NVIC_EnableIRQ
-                0x08001c26       0x1c CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
-                0x08001c26                HAL_NVIC_EnableIRQ
+                0x08001c1a       0x1c CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08001c1a                HAL_NVIC_EnableIRQ
  .text.HAL_SYSTICK_Config
-                0x08001c42       0x18 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
-                0x08001c42                HAL_SYSTICK_Config
+                0x08001c36       0x18 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08001c36                HAL_SYSTICK_Config
  .text.HAL_UART_Init
-                0x08001c5a       0xa0 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
-                0x08001c5a                HAL_UART_Init
- *fill*         0x08001cfa        0x2 
+                0x08001c4e       0xa0 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x08001c4e                HAL_UART_Init
+ *fill*         0x08001cee        0x2 
  .text.UART_SetConfig
-                0x08001cfc      0x11c CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x08001cf0      0x11c CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
  .text.SystemInit
-                0x08001e18        0xc CMakeFiles/uart_board_test.dir/Core/Src/system_stm32f1xx.c.obj
-                0x08001e18                SystemInit
+                0x08001e0c        0xc CMakeFiles/uart_board_test.dir/Core/Src/system_stm32f1xx.c.obj
+                0x08001e0c                SystemInit
  .text.Reset_Handler
-                0x08001e24       0x48 CMakeFiles/uart_board_test.dir/startup_stm32f103xe.s.obj
-                0x08001e24                Reset_Handler
+                0x08001e18       0x48 CMakeFiles/uart_board_test.dir/startup_stm32f103xe.s.obj
+                0x08001e18                Reset_Handler
  .text.Default_Handler
-                0x08001e6c        0x2 CMakeFiles/uart_board_test.dir/startup_stm32f103xe.s.obj
-                0x08001e6c                RTC_Alarm_IRQHandler
-                0x08001e6c                EXTI2_IRQHandler
-                0x08001e6c                TIM8_TRG_COM_IRQHandler
-                0x08001e6c                TIM8_CC_IRQHandler
-                0x08001e6c                TIM1_CC_IRQHandler
-                0x08001e6c                TIM6_IRQHandler
-                0x08001e6c                PVD_IRQHandler
-                0x08001e6c                SDIO_IRQHandler
-                0x08001e6c                EXTI3_IRQHandler
-                0x08001e6c                EXTI0_IRQHandler
-                0x08001e6c                I2C2_EV_IRQHandler
-                0x08001e6c                ADC1_2_IRQHandler
-                0x08001e6c                SPI1_IRQHandler
-                0x08001e6c                TAMPER_IRQHandler
-                0x08001e6c                TIM8_UP_IRQHandler
-                0x08001e6c                DMA2_Channel2_IRQHandler
-                0x08001e6c                DMA1_Channel4_IRQHandler
-                0x08001e6c                USART3_IRQHandler
-                0x08001e6c                RTC_IRQHandler
-                0x08001e6c                DMA1_Channel7_IRQHandler
-                0x08001e6c                CAN1_RX1_IRQHandler
-                0x08001e6c                UART5_IRQHandler
-                0x08001e6c                ADC3_IRQHandler
-                0x08001e6c                TIM4_IRQHandler
-                0x08001e6c                DMA2_Channel1_IRQHandler
-                0x08001e6c                I2C1_EV_IRQHandler
-                0x08001e6c                DMA1_Channel6_IRQHandler
-                0x08001e6c                UART4_IRQHandler
-                0x08001e6c                TIM3_IRQHandler
-                0x08001e6c                RCC_IRQHandler
-                0x08001e6c                TIM1_TRG_COM_IRQHandler
-                0x08001e6c                DMA1_Channel1_IRQHandler
-                0x08001e6c                Default_Handler
-                0x08001e6c                EXTI15_10_IRQHandler
-                0x08001e6c                TIM7_IRQHandler
-                0x08001e6c                TIM5_IRQHandler
-                0x08001e6c                EXTI9_5_IRQHandler
-                0x08001e6c                SPI2_IRQHandler
-                0x08001e6c                DMA1_Channel5_IRQHandler
-                0x08001e6c                EXTI4_IRQHandler
-                0x08001e6c                USB_LP_CAN1_RX0_IRQHandler
-                0x08001e6c                USB_HP_CAN1_TX_IRQHandler
-                0x08001e6c                DMA1_Channel3_IRQHandler
-                0x08001e6c                FSMC_IRQHandler
-                0x08001e6c                WWDG_IRQHandler
-                0x08001e6c                TIM2_IRQHandler
-                0x08001e6c                TIM1_BRK_IRQHandler
-                0x08001e6c                EXTI1_IRQHandler
-                0x08001e6c                DMA2_Channel4_5_IRQHandler
-                0x08001e6c                USART2_IRQHandler
-                0x08001e6c                I2C2_ER_IRQHandler
-                0x08001e6c                DMA1_Channel2_IRQHandler
-                0x08001e6c                TIM8_BRK_IRQHandler
-                0x08001e6c                CAN1_SCE_IRQHandler
-                0x08001e6c                FLASH_IRQHandler
-                0x08001e6c                USART1_IRQHandler
-                0x08001e6c                SPI3_IRQHandler
-                0x08001e6c                I2C1_ER_IRQHandler
-                0x08001e6c                USBWakeUp_IRQHandler
-                0x08001e6c                DMA2_Channel3_IRQHandler
- .text.add      0x08001e6e       0x1a CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
-                0x08001e6e                add
- .text.test     0x08001e88       0x10 CMakeFiles/uart_board_test.dir/User/src/test.c.obj
-                0x08001e88                test
+                0x08001e60        0x2 CMakeFiles/uart_board_test.dir/startup_stm32f103xe.s.obj
+                0x08001e60                RTC_Alarm_IRQHandler
+                0x08001e60                EXTI2_IRQHandler
+                0x08001e60                TIM8_TRG_COM_IRQHandler
+                0x08001e60                TIM8_CC_IRQHandler
+                0x08001e60                TIM1_CC_IRQHandler
+                0x08001e60                TIM6_IRQHandler
+                0x08001e60                PVD_IRQHandler
+                0x08001e60                SDIO_IRQHandler
+                0x08001e60                EXTI3_IRQHandler
+                0x08001e60                EXTI0_IRQHandler
+                0x08001e60                I2C2_EV_IRQHandler
+                0x08001e60                ADC1_2_IRQHandler
+                0x08001e60                SPI1_IRQHandler
+                0x08001e60                TAMPER_IRQHandler
+                0x08001e60                TIM8_UP_IRQHandler
+                0x08001e60                DMA2_Channel2_IRQHandler
+                0x08001e60                DMA1_Channel4_IRQHandler
+                0x08001e60                USART3_IRQHandler
+                0x08001e60                RTC_IRQHandler
+                0x08001e60                DMA1_Channel7_IRQHandler
+                0x08001e60                CAN1_RX1_IRQHandler
+                0x08001e60                UART5_IRQHandler
+                0x08001e60                ADC3_IRQHandler
+                0x08001e60                TIM4_IRQHandler
+                0x08001e60                DMA2_Channel1_IRQHandler
+                0x08001e60                I2C1_EV_IRQHandler
+                0x08001e60                DMA1_Channel6_IRQHandler
+                0x08001e60                UART4_IRQHandler
+                0x08001e60                TIM3_IRQHandler
+                0x08001e60                RCC_IRQHandler
+                0x08001e60                TIM1_TRG_COM_IRQHandler
+                0x08001e60                DMA1_Channel1_IRQHandler
+                0x08001e60                Default_Handler
+                0x08001e60                EXTI15_10_IRQHandler
+                0x08001e60                TIM7_IRQHandler
+                0x08001e60                TIM5_IRQHandler
+                0x08001e60                EXTI9_5_IRQHandler
+                0x08001e60                SPI2_IRQHandler
+                0x08001e60                DMA1_Channel5_IRQHandler
+                0x08001e60                EXTI4_IRQHandler
+                0x08001e60                USB_LP_CAN1_RX0_IRQHandler
+                0x08001e60                USB_HP_CAN1_TX_IRQHandler
+                0x08001e60                DMA1_Channel3_IRQHandler
+                0x08001e60                FSMC_IRQHandler
+                0x08001e60                WWDG_IRQHandler
+                0x08001e60                TIM2_IRQHandler
+                0x08001e60                TIM1_BRK_IRQHandler
+                0x08001e60                EXTI1_IRQHandler
+                0x08001e60                DMA2_Channel4_5_IRQHandler
+                0x08001e60                USART2_IRQHandler
+                0x08001e60                I2C2_ER_IRQHandler
+                0x08001e60                DMA1_Channel2_IRQHandler
+                0x08001e60                TIM8_BRK_IRQHandler
+                0x08001e60                CAN1_SCE_IRQHandler
+                0x08001e60                FLASH_IRQHandler
+                0x08001e60                USART1_IRQHandler
+                0x08001e60                SPI3_IRQHandler
+                0x08001e60                I2C1_ER_IRQHandler
+                0x08001e60                USBWakeUp_IRQHandler
+                0x08001e60                DMA2_Channel3_IRQHandler
+ .text.test     0x08001e62        0xe CMakeFiles/uart_board_test.dir/User/src/test.c.obj
+                0x08001e62                test
  *(.glue_7)
- .glue_7        0x08001e98        0x0 linker stubs
+ .glue_7        0x08001e70        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x08001e98        0x0 linker stubs
+ .glue_7t       0x08001e70        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x08001e98        0x0 I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
+ .eh_frame      0x08001e70        0x0 I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
  *(.init)
- .init          0x08001e98        0x4 I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crti.o
-                0x08001e98                _init
- .init          0x08001e9c        0x8 I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtn.o
+ .init          0x08001e70        0x4 I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crti.o
+                0x08001e70                _init
+ .init          0x08001e74        0x8 I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtn.o
  *(.fini)
- .fini          0x08001ea4        0x4 I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crti.o
-                0x08001ea4                _fini
- .fini          0x08001ea8        0x8 I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtn.o
-                0x08001eb0                        . = ALIGN (0x4)
-                0x08001eb0                        _etext = .
+ .fini          0x08001e7c        0x4 I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crti.o
+                0x08001e7c                _fini
+ .fini          0x08001e80        0x8 I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtn.o
+                0x08001e88                        . = ALIGN (0x4)
+                0x08001e88                        _etext = .
 
-.vfp11_veneer   0x08001eb0        0x0
- .vfp11_veneer  0x08001eb0        0x0 linker stubs
+.vfp11_veneer   0x08001e88        0x0
+ .vfp11_veneer  0x08001e88        0x0 linker stubs
 
-.v4_bx          0x08001eb0        0x0
- .v4_bx         0x08001eb0        0x0 linker stubs
+.v4_bx          0x08001e88        0x0
+ .v4_bx         0x08001e88        0x0 linker stubs
 
-.iplt           0x08001eb0        0x0
- .iplt          0x08001eb0        0x0 I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
+.iplt           0x08001e88        0x0
+ .iplt          0x08001e88        0x0 I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
 
-.rodata         0x08001eb0       0x2c
-                0x08001eb0                        . = ALIGN (0x4)
+.rodata         0x08001e88       0x2c
+                0x08001e88                        . = ALIGN (0x4)
  *(.rodata)
  *(.rodata*)
  .rodata.aPLLMULFactorTable.1
-                0x08001eb0       0x10 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08001e88       0x10 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
  .rodata.aPredivFactorTable.0
-                0x08001ec0        0x2 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- *fill*         0x08001ec2        0x2 
+                0x08001e98        0x2 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ *fill*         0x08001e9a        0x2 
  .rodata.AHBPrescTable
-                0x08001ec4       0x10 CMakeFiles/uart_board_test.dir/Core/Src/system_stm32f1xx.c.obj
-                0x08001ec4                AHBPrescTable
+                0x08001e9c       0x10 CMakeFiles/uart_board_test.dir/Core/Src/system_stm32f1xx.c.obj
+                0x08001e9c                AHBPrescTable
  .rodata.APBPrescTable
-                0x08001ed4        0x8 CMakeFiles/uart_board_test.dir/Core/Src/system_stm32f1xx.c.obj
-                0x08001ed4                APBPrescTable
-                0x08001edc                        . = ALIGN (0x4)
+                0x08001eac        0x8 CMakeFiles/uart_board_test.dir/Core/Src/system_stm32f1xx.c.obj
+                0x08001eac                APBPrescTable
+                0x08001eb4                        . = ALIGN (0x4)
 
-.rel.dyn        0x08001edc        0x0
- .rel.iplt      0x08001edc        0x0 I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
+.rel.dyn        0x08001eb4        0x0
+ .rel.iplt      0x08001eb4        0x0 I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
 
-.ARM            0x08001edc        0x0
-                0x08001edc                        __exidx_start = .
+.ARM            0x08001eb4        0x0
+                0x08001eb4                        __exidx_start = .
  *(.ARM.exidx*)
-                0x08001edc                        __exidx_end = .
+                0x08001eb4                        __exidx_end = .
 
-.preinit_array  0x08001edc        0x0
-                0x08001edc                        PROVIDE (__preinit_array_start = .)
+.preinit_array  0x08001eb4        0x0
+                0x08001eb4                        PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x08001edc                        PROVIDE (__preinit_array_end = .)
+                0x08001eb4                        PROVIDE (__preinit_array_end = .)
 
-.init_array     0x08001edc        0x4
-                0x08001edc                        PROVIDE (__init_array_start = .)
+.init_array     0x08001eb4        0x4
+                0x08001eb4                        PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  *(.init_array*)
- .init_array    0x08001edc        0x4 I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
-                0x08001ee0                        PROVIDE (__init_array_end = .)
+ .init_array    0x08001eb4        0x4 I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
+                0x08001eb8                        PROVIDE (__init_array_end = .)
 
-.fini_array     0x08001ee0        0x4
+.fini_array     0x08001eb8        0x4
                 [!provide]                        PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x08001ee0        0x4 I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
+ .fini_array    0x08001eb8        0x4 I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
                 [!provide]                        PROVIDE (__fini_array_end = .)
-                0x08001ee4                        _sidata = LOADADDR (.data)
+                0x08001ebc                        _sidata = LOADADDR (.data)
 
-.data           0x20000000        0xc load address 0x08001ee4
+.data           0x20000000        0xc load address 0x08001ebc
                 0x20000000                        . = ALIGN (0x4)
                 0x20000000                        _sdata = .
  *(.data)
@@ -3349,11 +3271,11 @@ LOAD I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-
                 0x2000000c                        . = ALIGN (0x4)
                 0x2000000c                        _edata = .
 
-.igot.plt       0x2000000c        0x0 load address 0x08001ef0
+.igot.plt       0x2000000c        0x0 load address 0x08001ec8
  .igot.plt      0x2000000c        0x0 I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
                 0x2000000c                        . = ALIGN (0x4)
 
-.bss            0x2000000c       0xb0 load address 0x08001ef0
+.bss            0x2000000c       0xb0 load address 0x08001ec8
                 0x2000000c                        _sbss = .
                 0x2000000c                        __bss_start__ = _sbss
  *(.bss)
@@ -3371,7 +3293,7 @@ LOAD I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-
                 0x200000bc                        __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x200000bc      0x604 load address 0x08001ef0
+                0x200000bc      0x604 load address 0x08001ec8
                 0x200000c0                        . = ALIGN (0x8)
  *fill*         0x200000bc        0x4 
                 [!provide]                        PROVIDE (end = .)
@@ -3429,76 +3351,71 @@ LOAD I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-
  .ARM.attributes
                 0x0000031a       0x21 CMakeFiles/uart_board_test.dir/startup_stm32f103xe.s.obj
  .ARM.attributes
-                0x0000033b       0x2d CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
+                0x0000033b       0x2d CMakeFiles/uart_board_test.dir/User/src/test.c.obj
  .ARM.attributes
-                0x00000368       0x2d CMakeFiles/uart_board_test.dir/User/src/test.c.obj
- .ARM.attributes
-                0x00000395       0x1d I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtn.o
+                0x00000368       0x1d I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtn.o
 OUTPUT(uart_board_test.elf elf32-littlearm)
 LOAD linker stubs
 LOAD I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a
 LOAD I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libm.a
 LOAD I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp\libgcc.a
 
-.debug_frame    0x00000000     0x2fe8
+.debug_frame    0x00000000     0x2fac
  .debug_frame   0x00000000       0x20 I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-memset.o)
  .debug_frame   0x00000020       0x2c I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-init.o)
- .debug_frame   0x0000004c       0x6c CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_frame   0x000000b8       0x38 CMakeFiles/uart_board_test.dir/Core/Src/gpio.c.obj
- .debug_frame   0x000000f0       0x7c CMakeFiles/uart_board_test.dir/Core/Src/tim.c.obj
- .debug_frame   0x0000016c       0x74 CMakeFiles/uart_board_test.dir/Core/Src/usart.c.obj
- .debug_frame   0x000001e0      0x120 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_frame   0x00000300       0x38 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_frame   0x00000338     0x11b8 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .debug_frame   0x000014f0      0x638 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
- .debug_frame   0x00001b28      0x334 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_frame   0x00001e5c      0x218 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_frame   0x00002074      0x14c CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_frame   0x000021c0      0x428 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_frame   0x000025e8      0x944 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- .debug_frame   0x00002f2c       0x58 CMakeFiles/uart_board_test.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_frame   0x00002f84       0x38 CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_frame   0x00002fbc       0x2c CMakeFiles/uart_board_test.dir/User/src/test.c.obj
+ .debug_frame   0x0000004c       0x68 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_frame   0x000000b4       0x38 CMakeFiles/uart_board_test.dir/Core/Src/gpio.c.obj
+ .debug_frame   0x000000ec       0x7c CMakeFiles/uart_board_test.dir/Core/Src/tim.c.obj
+ .debug_frame   0x00000168       0x74 CMakeFiles/uart_board_test.dir/Core/Src/usart.c.obj
+ .debug_frame   0x000001dc      0x120 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_frame   0x000002fc       0x38 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_frame   0x00000334     0x11b8 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_frame   0x000014ec      0x638 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_frame   0x00001b24      0x334 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_frame   0x00001e58      0x218 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_frame   0x00002070      0x14c CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_frame   0x000021bc      0x428 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_frame   0x000025e4      0x944 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_frame   0x00002f28       0x58 CMakeFiles/uart_board_test.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_frame   0x00002f80       0x2c CMakeFiles/uart_board_test.dir/User/src/test.c.obj
 
-.debug_info     0x00000000     0xaf2a
- .debug_info    0x00000000      0x2f3 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_info    0x000002f3      0x184 CMakeFiles/uart_board_test.dir/Core/Src/gpio.c.obj
- .debug_info    0x00000477      0xa21 CMakeFiles/uart_board_test.dir/Core/Src/tim.c.obj
- .debug_info    0x00000e98      0x798 CMakeFiles/uart_board_test.dir/Core/Src/usart.c.obj
- .debug_info    0x00001630      0x6a1 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_info    0x00001cd1      0x1f1 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_info    0x00001ec2     0x2959 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .debug_info    0x0000481b     0x149b CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
- .debug_info    0x00005cb6      0x76a CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_info    0x00006420      0x7d5 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_info    0x00006bf5      0x5ab CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_info    0x000071a0      0xaed CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_info    0x00007c8d     0x2eed CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- .debug_info    0x0000ab7a      0x222 CMakeFiles/uart_board_test.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_info    0x0000ad9c       0x30 CMakeFiles/uart_board_test.dir/startup_stm32f103xe.s.obj
- .debug_info    0x0000adcc       0xa5 CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_info    0x0000ae71       0xb9 CMakeFiles/uart_board_test.dir/User/src/test.c.obj
+.debug_info     0x00000000     0xae46
+ .debug_info    0x00000000      0x2b8 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_info    0x000002b8      0x184 CMakeFiles/uart_board_test.dir/Core/Src/gpio.c.obj
+ .debug_info    0x0000043c      0xa21 CMakeFiles/uart_board_test.dir/Core/Src/tim.c.obj
+ .debug_info    0x00000e5d      0x798 CMakeFiles/uart_board_test.dir/Core/Src/usart.c.obj
+ .debug_info    0x000015f5      0x6a1 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_info    0x00001c96      0x1f1 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_info    0x00001e87     0x2959 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_info    0x000047e0     0x149b CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_info    0x00005c7b      0x76a CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_info    0x000063e5      0x7d5 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_info    0x00006bba      0x5ab CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_info    0x00007165      0xaed CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_info    0x00007c52     0x2eed CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_info    0x0000ab3f      0x222 CMakeFiles/uart_board_test.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_info    0x0000ad61       0x30 CMakeFiles/uart_board_test.dir/startup_stm32f103xe.s.obj
+ .debug_info    0x0000ad91       0xb5 CMakeFiles/uart_board_test.dir/User/src/test.c.obj
 
-.debug_abbrev   0x00000000     0x1c8e
- .debug_abbrev  0x00000000      0x1d4 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_abbrev  0x000001d4       0xc6 CMakeFiles/uart_board_test.dir/Core/Src/gpio.c.obj
- .debug_abbrev  0x0000029a      0x20e CMakeFiles/uart_board_test.dir/Core/Src/tim.c.obj
- .debug_abbrev  0x000004a8      0x1e6 CMakeFiles/uart_board_test.dir/Core/Src/usart.c.obj
- .debug_abbrev  0x0000068e      0x191 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_abbrev  0x0000081f       0xdb CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_abbrev  0x000008fa      0x277 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .debug_abbrev  0x00000b71      0x282 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
- .debug_abbrev  0x00000df3      0x201 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_abbrev  0x00000ff4      0x2b3 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_abbrev  0x000012a7      0x1ca CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_abbrev  0x00001471      0x2f8 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_abbrev  0x00001769      0x2f8 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- .debug_abbrev  0x00001a61      0x13f CMakeFiles/uart_board_test.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_abbrev  0x00001ba0       0x24 CMakeFiles/uart_board_test.dir/startup_stm32f103xe.s.obj
- .debug_abbrev  0x00001bc4       0x5a CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_abbrev  0x00001c1e       0x70 CMakeFiles/uart_board_test.dir/User/src/test.c.obj
+.debug_abbrev   0x00000000     0x1bfd
+ .debug_abbrev  0x00000000      0x19f CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_abbrev  0x0000019f       0xc6 CMakeFiles/uart_board_test.dir/Core/Src/gpio.c.obj
+ .debug_abbrev  0x00000265      0x20e CMakeFiles/uart_board_test.dir/Core/Src/tim.c.obj
+ .debug_abbrev  0x00000473      0x1e6 CMakeFiles/uart_board_test.dir/Core/Src/usart.c.obj
+ .debug_abbrev  0x00000659      0x191 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_abbrev  0x000007ea       0xdb CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_abbrev  0x000008c5      0x277 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_abbrev  0x00000b3c      0x282 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_abbrev  0x00000dbe      0x201 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_abbrev  0x00000fbf      0x2b3 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_abbrev  0x00001272      0x1ca CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_abbrev  0x0000143c      0x2f8 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_abbrev  0x00001734      0x2f8 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_abbrev  0x00001a2c      0x13f CMakeFiles/uart_board_test.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_abbrev  0x00001b6b       0x24 CMakeFiles/uart_board_test.dir/startup_stm32f103xe.s.obj
+ .debug_abbrev  0x00001b8f       0x6e CMakeFiles/uart_board_test.dir/User/src/test.c.obj
 
-.debug_aranges  0x00000000      0xbd0
+.debug_aranges  0x00000000      0xbb0
  .debug_aranges
                 0x00000000       0x30 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
  .debug_aranges
@@ -3530,12 +3447,10 @@ LOAD I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-
  .debug_aranges
                 0x00000b68       0x28 CMakeFiles/uart_board_test.dir/startup_stm32f103xe.s.obj
  .debug_aranges
-                0x00000b90       0x20 CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_aranges
-                0x00000bb0       0x20 CMakeFiles/uart_board_test.dir/User/src/test.c.obj
+                0x00000b90       0x20 CMakeFiles/uart_board_test.dir/User/src/test.c.obj
 
 .debug_rnglists
-                0x00000000      0x92c
+                0x00000000      0x919
  .debug_rnglists
                 0x00000000       0x20 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
  .debug_rnglists
@@ -3567,117 +3482,111 @@ LOAD I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-
  .debug_rnglists
                 0x000008ed       0x19 CMakeFiles/uart_board_test.dir/startup_stm32f103xe.s.obj
  .debug_rnglists
-                0x00000906       0x13 CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_rnglists
-                0x00000919       0x13 CMakeFiles/uart_board_test.dir/User/src/test.c.obj
+                0x00000906       0x13 CMakeFiles/uart_board_test.dir/User/src/test.c.obj
 
-.debug_macro    0x00000000    0x19313
- .debug_macro   0x00000000      0x1e3 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x000001e3      0xaa8 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x00000c8b      0x21b CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x00000ea6       0x2e CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x00000ed4       0x22 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x00000ef6       0x22 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x00000f18       0x8e CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x00000fa6       0x51 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x00000ff7      0x103 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x000010fa       0x6a CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x00001164      0x1df CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x00001343       0x1c CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x0000135f       0x22 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x00001381       0xbd CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x0000143e      0xd23 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x00002161     0xfd8c CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x00011eed       0x6d CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x00011f5a     0x34a2 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x000153fc      0x189 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x00015585       0x5c CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x000155e1      0x5bc CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x00015b9d      0x4d5 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x00016072      0x1cb CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x0001623d      0x114 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x00016351      0x1ea CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x0001653b       0x27 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x00016562      0x144 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x000166a6      0x1bc CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x00016862       0x30 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x00016892       0x3c CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x000168ce       0x57 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x00016925       0x87 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x000169ac      0x24f CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x00016bfb      0x140 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x00016d3b      0x8ed CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x00017628      0x28e CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x000178b6       0xb5 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_macro   0x0001796b      0x1b7 CMakeFiles/uart_board_test.dir/Core/Src/gpio.c.obj
- .debug_macro   0x00017b22      0x1b7 CMakeFiles/uart_board_test.dir/Core/Src/tim.c.obj
- .debug_macro   0x00017cd9      0x1b7 CMakeFiles/uart_board_test.dir/Core/Src/usart.c.obj
- .debug_macro   0x00017e90      0x1b7 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_macro   0x00018047      0x1ad CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_macro   0x000181f4      0x1a4 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .debug_macro   0x00018398      0x1a3 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
- .debug_macro   0x0001853b      0x1c7 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_macro   0x00018702      0x1b5 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_macro   0x000188b7      0x20e CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_macro   0x00018ac5      0x1a3 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_macro   0x00018c68      0x1a4 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- .debug_macro   0x00018e0c      0x1a3 CMakeFiles/uart_board_test.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_macro   0x00018faf      0x1b7 CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_macro   0x00019166      0x1ad CMakeFiles/uart_board_test.dir/User/src/test.c.obj
+.debug_macro    0x00000000    0x19152
+ .debug_macro   0x00000000      0x1d9 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x000001d9      0xaa8 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000c81      0x21b CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000e9c       0x2e CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000eca       0x22 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000eec       0x22 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000f0e       0x8e CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000f9c       0x51 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000fed      0x103 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x000010f0       0x6a CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x0000115a      0x1df CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x00001339       0x1c CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x00001355       0x22 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x00001377       0xbd CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x00001434      0xd23 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x00002157     0xfd8c CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x00011ee3       0x6d CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x00011f50     0x34a2 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x000153f2      0x189 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x0001557b       0x5c CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x000155d7      0x5bc CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x00015b93      0x4d5 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x00016068      0x1cb CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x00016233      0x114 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x00016347      0x1ea CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x00016531       0x27 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x00016558      0x144 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x0001669c      0x1bc CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x00016858       0x30 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x00016888       0x3c CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x000168c4       0x57 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x0001691b       0x87 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x000169a2      0x24f CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x00016bf1      0x140 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x00016d31      0x8ed CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x0001761e      0x28e CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x000178ac       0xb5 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_macro   0x00017961      0x1b7 CMakeFiles/uart_board_test.dir/Core/Src/gpio.c.obj
+ .debug_macro   0x00017b18      0x1b7 CMakeFiles/uart_board_test.dir/Core/Src/tim.c.obj
+ .debug_macro   0x00017ccf      0x1b7 CMakeFiles/uart_board_test.dir/Core/Src/usart.c.obj
+ .debug_macro   0x00017e86      0x1b7 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_macro   0x0001803d      0x1ad CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_macro   0x000181ea      0x1a4 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_macro   0x0001838e      0x1a3 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_macro   0x00018531      0x1c7 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_macro   0x000186f8      0x1b5 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_macro   0x000188ad      0x20e CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_macro   0x00018abb      0x1a3 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_macro   0x00018c5e      0x1a4 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_macro   0x00018e02      0x1a3 CMakeFiles/uart_board_test.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_macro   0x00018fa5      0x1ad CMakeFiles/uart_board_test.dir/User/src/test.c.obj
 
-.debug_line     0x00000000     0xe3f2
- .debug_line    0x00000000      0x7bc CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
- .debug_line    0x000007bc      0x6a8 CMakeFiles/uart_board_test.dir/Core/Src/gpio.c.obj
- .debug_line    0x00000e64      0x719 CMakeFiles/uart_board_test.dir/Core/Src/tim.c.obj
- .debug_line    0x0000157d      0x71a CMakeFiles/uart_board_test.dir/Core/Src/usart.c.obj
- .debug_line    0x00001c97      0x785 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_line    0x0000241c      0x6ac CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_line    0x00002ac8     0x369b CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .debug_line    0x00006163     0x190b CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
- .debug_line    0x00007a6e      0x956 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_line    0x000083c4      0xd5f CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_line    0x00009123      0xa17 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_line    0x00009b3a      0xb42 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_line    0x0000a67c     0x2835 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- .debug_line    0x0000ceb1      0x729 CMakeFiles/uart_board_test.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_line    0x0000d5da       0x79 CMakeFiles/uart_board_test.dir/startup_stm32f103xe.s.obj
- .debug_line    0x0000d653      0x6db CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
- .debug_line    0x0000dd2e      0x6c4 CMakeFiles/uart_board_test.dir/User/src/test.c.obj
+.debug_line     0x00000000     0xdcd6
+ .debug_line    0x00000000      0x77a CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+ .debug_line    0x0000077a      0x6a8 CMakeFiles/uart_board_test.dir/Core/Src/gpio.c.obj
+ .debug_line    0x00000e22      0x719 CMakeFiles/uart_board_test.dir/Core/Src/tim.c.obj
+ .debug_line    0x0000153b      0x71a CMakeFiles/uart_board_test.dir/Core/Src/usart.c.obj
+ .debug_line    0x00001c55      0x785 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_line    0x000023da      0x6ac CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_line    0x00002a86     0x369b CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_line    0x00006121     0x190b CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_line    0x00007a2c      0x956 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_line    0x00008382      0xd5f CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_line    0x000090e1      0xa17 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_line    0x00009af8      0xb42 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_line    0x0000a63a     0x2835 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_line    0x0000ce6f      0x729 CMakeFiles/uart_board_test.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_line    0x0000d598       0x79 CMakeFiles/uart_board_test.dir/startup_stm32f103xe.s.obj
+ .debug_line    0x0000d611      0x6c5 CMakeFiles/uart_board_test.dir/User/src/test.c.obj
 
-.debug_str      0x00000000    0x94b70
- .debug_str     0x00000000    0x917c7 CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
-                              0x91ba5 (size before relaxing)
- .debug_str     0x000917c7       0x74 CMakeFiles/uart_board_test.dir/Core/Src/gpio.c.obj
+.debug_str      0x00000000    0x94b31
+ .debug_str     0x00000000    0x917bc CMakeFiles/uart_board_test.dir/Core/Src/main.c.obj
+                              0x91b9a (size before relaxing)
+ .debug_str     0x000917bc       0x74 CMakeFiles/uart_board_test.dir/Core/Src/gpio.c.obj
                               0x919ea (size before relaxing)
- .debug_str     0x0009183b      0x8af CMakeFiles/uart_board_test.dir/Core/Src/tim.c.obj
+ .debug_str     0x00091830      0x8af CMakeFiles/uart_board_test.dir/Core/Src/tim.c.obj
                               0x9241d (size before relaxing)
- .debug_str     0x000920ea      0x2c7 CMakeFiles/uart_board_test.dir/Core/Src/usart.c.obj
+ .debug_str     0x000920df      0x2c7 CMakeFiles/uart_board_test.dir/Core/Src/usart.c.obj
                               0x91ed2 (size before relaxing)
- .debug_str     0x000923b1       0xf7 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_str     0x000923a6       0xf7 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_it.c.obj
                               0x91f21 (size before relaxing)
- .debug_str     0x000924a8       0x75 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_str     0x0009249d       0x75 CMakeFiles/uart_board_test.dir/Core/Src/stm32f1xx_hal_msp.c.obj
                               0x91a18 (size before relaxing)
- .debug_str     0x0009251d      0xe34 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_str     0x00092512      0xe34 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
                               0x92e74 (size before relaxing)
- .debug_str     0x00093351      0x4ae CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_str     0x00093346      0x4ae CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
                               0x92680 (size before relaxing)
- .debug_str     0x000937ff      0x3af CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_str     0x000937f4      0x3af CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
                               0x9225a (size before relaxing)
- .debug_str     0x00093bae      0x260 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_str     0x00093ba3      0x260 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
                               0x91e72 (size before relaxing)
- .debug_str     0x00093e0e      0x33d CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_str     0x00093e03      0x33d CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
                               0x91dc9 (size before relaxing)
- .debug_str     0x0009414b      0x2af CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_str     0x00094140      0x2af CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
                               0x921a6 (size before relaxing)
- .debug_str     0x000943fa      0x657 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_str     0x000943ef      0x657 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
                               0x924e3 (size before relaxing)
- .debug_str     0x00094a51       0x6d CMakeFiles/uart_board_test.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_str     0x00094a46       0x6d CMakeFiles/uart_board_test.dir/Core/Src/system_stm32f1xx.c.obj
                               0x91a43 (size before relaxing)
- .debug_str     0x00094abe       0x50 CMakeFiles/uart_board_test.dir/startup_stm32f103xe.s.obj
+ .debug_str     0x00094ab3       0x50 CMakeFiles/uart_board_test.dir/startup_stm32f103xe.s.obj
                                  0x7a (size before relaxing)
- .debug_str     0x00094b0e       0x34 CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
-                              0x91988 (size before relaxing)
- .debug_str     0x00094b42       0x2e CMakeFiles/uart_board_test.dir/User/src/test.c.obj
+ .debug_str     0x00094b03       0x2e CMakeFiles/uart_board_test.dir/User/src/test.c.obj
                               0x91999 (size before relaxing)
 
 .comment        0x00000000       0x43
@@ -3696,7 +3605,6 @@ LOAD I:/cubeclt/cube/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-
  .comment       0x00000043       0x44 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .comment       0x00000043       0x44 CMakeFiles/uart_board_test.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
  .comment       0x00000043       0x44 CMakeFiles/uart_board_test.dir/Core/Src/system_stm32f1xx.c.obj
- .comment       0x00000043       0x44 CMakeFiles/uart_board_test.dir/UserLib/src/userlib.c.obj
  .comment       0x00000043       0x44 CMakeFiles/uart_board_test.dir/User/src/test.c.obj
 
 .debug_line_str

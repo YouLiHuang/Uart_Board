@@ -37,7 +37,6 @@ message("Build type: " ${CMAKE_BUILD_TYPE})
 
 # Add STM32CubeMX generated sources
 add_subdirectory(cmake/stm32cubemx)
-add_subdirectory(UserLib)
 add_subdirectory(User)
 
 add_executable(${CMAKE_PROJECT_NAME})

@@ -9,8 +9,7 @@
 					"childIndexes" : 
 					[
 						1,
-						2,
-						3
+						2
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -36,17 +35,6 @@
 					"source" : "cmake/stm32cubemx"
 				},
 				{
-					"build" : "UserLib",
-					"jsonFile" : "directory-UserLib-Debug-f61e39d017ce29a4294c.json",
-					"minimumCMakeVersion" : 
-					{
-						"string" : "3.22"
-					},
-					"parentIndex" : 0,
-					"projectIndex" : 0,
-					"source" : "UserLib"
-				},
-				{
 					"build" : "User",
 					"jsonFile" : "directory-User-Debug-d2c76ea8569ac7d4de2e.json",
 					"minimumCMakeVersion" : 
@@ -69,8 +57,7 @@
 					"directoryIndexes" : 
 					[
 						0,
-						2,
-						3
+						2
 					],
 					"name" : "uart_board_test",
 					"targetIndexes" : 
@@ -92,7 +79,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "uart_board_test::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-uart_board_test-Debug-d81395c94c2690aeecdc.json",
+					"jsonFile" : "target-uart_board_test-Debug-f447512276a7c3e8c89e.json",
 					"name" : "uart_board_test",
 					"projectIndex" : 0
 				}

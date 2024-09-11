@@ -101,7 +101,6 @@ int main(void)
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
-    int i=add(1,2);
     test();
     //HAL_UART_Transmit(&huart4, dataBuffer, sizeof(dataBuffer), 100);
     HAL_Delay(300);

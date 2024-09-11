@@ -150,9 +150,6 @@
 			"path" : "I:/cubeclt/cube/STM32CubeCLT_1.16.0/CMake/share/cmake-3.28/Modules/Compiler/GNU.cmake"
 		},
 		{
-			"path" : "UserLib/CMakeLists.txt"
-		},
-		{
 			"path" : "User/CMakeLists.txt"
 		}
 	],
