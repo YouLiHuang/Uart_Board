@@ -25,7 +25,6 @@
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 #include "test.h"
-#include "userlib.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
